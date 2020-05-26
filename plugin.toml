@@ -1,0 +1,4 @@
+[plugin]
+description = "A custom plugin for my server"
+version = "0.0.1"
+[plugin.config]
